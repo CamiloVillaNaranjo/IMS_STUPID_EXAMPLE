@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.StupidLibrary", "IMS.StupidLibrary\IMS.StupidLibrary.csproj", "{D22B45D0-3FA2-4FA5-926A-CDE9F60E7875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.StupidConsole", "IMS.StupidConsole\IMS.StupidConsole.csproj", "{1F4529BD-7F65-4493-99E7-9049D6F371F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22B45D0-3FA2-4FA5-926A-CDE9F60E7875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22B45D0-3FA2-4FA5-926A-CDE9F60E7875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22B45D0-3FA2-4FA5-926A-CDE9F60E7875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22B45D0-3FA2-4FA5-926A-CDE9F60E7875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4529BD-7F65-4493-99E7-9049D6F371F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4529BD-7F65-4493-99E7-9049D6F371F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4529BD-7F65-4493-99E7-9049D6F371F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4529BD-7F65-4493-99E7-9049D6F371F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
