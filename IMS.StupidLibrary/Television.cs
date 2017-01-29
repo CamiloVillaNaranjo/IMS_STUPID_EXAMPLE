@@ -1,4 +1,4 @@
-﻿namespace IMS.StupidLibrary
+﻿namespace Yuxi.StupidLibrary
 {
     public class Television
     {
